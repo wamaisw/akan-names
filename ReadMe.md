@@ -22,7 +22,7 @@ The project can be accessed through github.
 
  ## Bugs
 
- Still under development.
+ Javascript has some few bugs.
 
  ## Support and Contact Details
 
