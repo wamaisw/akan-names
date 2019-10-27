@@ -16,6 +16,9 @@ The project can be accessed through github.
  - CSS
  - HTML
  - Javascript
+##  BDD
+- The user inputs the year, century, date and month.
+- The output is generated in form of an akan name.
 
  ## Bugs
 
