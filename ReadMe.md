@@ -27,3 +27,6 @@ The project can be accessed through github.
  ## Support and Contact Details
 
  I can be reached through the following e-mail; wamaisw@gmail.com.
+
+ ## License
+ - MIT License
