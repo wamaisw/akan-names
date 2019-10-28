@@ -7,10 +7,6 @@ This webpage is an Akan name generator with which a user can input his date, mon
 year of birth to get a an akan name. Akan names is a naming system in ghana in which parents name their
 children after the day of the week they were born and the order in which they were born.
 
-## Screenshots
-
- <image src="/images/akan-name show.png" height="200" width="200">
-
 ## Deployment
 The project can be accessed through github.
 
