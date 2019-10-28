@@ -12,7 +12,8 @@ The project can be accessed through github.
 
 ## Screenshots
 
-! [landing-page] (/images/landing page.png)
+![landing-page](/images/"landing-page.png")
+![akan-name-show](/images/"akan-name show.png")
 
 ##  Technologies Used
  
