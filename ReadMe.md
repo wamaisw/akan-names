@@ -12,7 +12,7 @@ The project can be accessed through github.
 
 ## Screenshots
 
-! [landing-page] (/home/steve/Documents/moringa-school-projects/akan-names/images/landing page.png)
+! [landing-page] (/images/landing page.png)
 
 ##  Technologies Used
  
