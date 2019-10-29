@@ -9,6 +9,7 @@ children after the day of the week they were born and the order in which they we
 
 ## Deployment
 The project can be accessed through github.
+Through the following link: https://wamaisw.github.io/akan-names/
 
 ##  Technologies Used
 
